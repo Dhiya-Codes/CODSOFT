@@ -45,4 +45,28 @@ This is a beginner-friendly **command-line calculator app** built using Python. 
 <img width="1366" height="713" alt="Screenshot (174)" src="https://github.com/user-attachments/assets/0811c93e-fb06-416d-9077-9d0429508bc1" />
 <img width="1356" height="678" alt="Screenshot (173)" src="https://github.com/user-attachments/assets/3048d21f-db60-463c-97ce-42f02e296bd0" />
 
+# 🔐 Password Generator 
 
+This is a simple and secure **password generator** built using Python. It allows users to choose the **length** and **complexity level** of the password.
+
+## ✅ Features
+
+- Customizable password length
+- Choose complexity level:
+  - Simple: Only letters (uppercase + lowercase)
+  - Medium: Letters + Numbers
+  - Strong: Letters + Numbers + Symbols
+- Randomized and secure
+- Easy to use via command line
+
+## 💻 How to Run
+
+1. Make sure you have Python installed:
+   ```bash
+   python --version
+   python Password generator.py
+
+## Screenshots
+
+<img width="1366" height="695" alt="Screenshot (175)" src="https://github.com/user-attachments/assets/9dfd4bc9-50f4-4d61-bfdd-ebe5c681db86" />
+<img width="1366" height="687" alt="Screenshot (176)" src="https://github.com/user-attachments/assets/2739ecf0-3870-42c4-ac08-f455a4384b76" />
